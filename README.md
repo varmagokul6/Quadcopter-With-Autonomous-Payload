@@ -1,4 +1,4 @@
-# Autonomous Payload Delivery for Quadcopter
+# Quadcopter with Autonomous Payload Delivery
 
 This project was part of one of the very first engineering courses I took in college. The course, Engineering 7B at UCI, emphasized hands-on learning through the development of the quadcopter, and also taught the essentials of presentation skills and entrepreneurship.
 In summary, my team, Team MAEhem, was required to design and develop a quadcopter that would be able to fly, recognize distance and color, and drop a ball based on the sensor readings. To do this, we incorporated an Arduino microcontroller, an ultrasonic sensor, a PIXY2 camera, and servo motors for the dropping mechanism.
