@@ -10,4 +10,4 @@ I was the lead programmer on the team. My job entailed getting readings from the
 
 ```ultrasonicReadings() ```- Reads ultrasonic sensor values and determines distance from surrounding objects
 
-pixyReadings() - Reads image color and compares it with known calibrated color values
+```pixyReadings()``` - Reads image color and compares it with known calibrated color values
