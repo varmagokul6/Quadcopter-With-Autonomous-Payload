@@ -6,9 +6,8 @@ In summary, my team, Team MAEhem, was required to design and develop a quadcopte
 I was the lead programmer on the team. My job entailed getting readings from the ultrasonic sensor and the PIXY2 cameras. If the sensor read a distance within our set constraints and the PIXY2 camera recognized one of two colors, it would trigger the respective servo motor, which would release a ball.
 
 
-# Functions:
-```
-ultrasonicReadings()
-```- Reads ultrasonic sensor values and determines distance from surrounding objects
+### Functions:
+
+```ultrasonicReadings() ```- Reads ultrasonic sensor values and determines distance from surrounding objects
 
 pixyReadings() - Reads image color and compares it with known calibrated color values
